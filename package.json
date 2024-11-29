@@ -1,0 +1,19 @@
+{
+  "name": "brawl-stats-bot",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "dev": "npx nodemon main.js"
+  },
+  "author": "Maksym Ryaboshapka",
+  "license": "GPL-3.0",
+  "description": "",
+  "dependencies": {
+    "brawl-api-wrapper": "^1.4.2",
+    "brawlstars": "^2.1.1",
+    "dotenv": "^16.4.5",
+    "nodemon": "^3.1.7",
+    "telegraf": "^4.16.3"
+  }
+}
