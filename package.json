@@ -8,7 +8,7 @@
   },
   "author": "Maksym Ryaboshapka",
   "license": "GPL-3.0",
-  "description": "",
+  "description": "Brawl Stats bot is telegram bot which shows statistics about player",
   "dependencies": {
     "brawl-api-wrapper": "^1.4.2",
     "brawlstars": "^2.1.1",
